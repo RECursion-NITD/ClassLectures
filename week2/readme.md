@@ -1,6 +1,6 @@
-Topics 
+#Topics 
 
-# Mergesort
-# Power Function
+### Mergesort
+### Power Function
 
 
